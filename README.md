@@ -1,7 +1,4 @@
 # 👋 Olá, eu sou Isacc da Silva Freitas
-🧠 Sobre mim
-
-Busco sempre aprender novas ferramentas e aprimorar minhas habilidades técnicas. Meu objetivo é ajudar empresas e pessoas a transformar ideias em produtos digitais de forma rápida e inteligente.
 
 💡 **Minha frase favorita:**
 
