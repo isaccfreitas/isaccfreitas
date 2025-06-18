@@ -12,54 +12,60 @@ Desenvolvedor No-Code | FlutterFlow, Supabase, Firebase, APIs, Python | Criaçã
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
+  <img 
     align="left" 
     alt="Flutterflow"
     title="Flutterflow" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://pbs.twimg.com/profile_images/1625151278535016448/tML8CA1M_400x400.jpg" 
-/>
-<img 
+ />
+  <img 
     align="left" 
     alt="Supabase" 
     title="Supabase"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgcp6z39vN3ad1wKqEHoCdaUFgzlP1T2Zjnw&s" 
-/>
-<img 
+ />
+  <img 
     align="left" 
     alt="Firebase"
     title="Firebase" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.ctfassets.net/in6v9lxmm5c8/57MXX73Nx2rUnUI730EykA/8d13236943bb46948155f92f2325369e/firebase.png?q=50&fm=webp" 
-/>
-<img 
+     src="https://images.ctfassets.net/in6v9lxmm5c8/57MXX73Nx2rUnUI730EykA/8d13236943bb46948155f92f2325369e/firebase.png?q=50&fm=webp" 
+ />
+  <img 
     align="left" 
     alt="API"
     title="API" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://w7.pngwing.com/pngs/500/498/png-transparent-application-programming-interface-representational-state-transfer-web-api-computer-software-hackathon-api-icon-logo-computer-program-computer-programming-thumbnail.png" 
-/>
+ />
 
-<img 
-    align="left" 
+  <img 
+     align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+ />
 
-### 📊 Estatísticas 
-  <img 
+
+
+
+
+ 📊 Estatísticas   
+
+
+<img
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=isaccfreitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<img 
+
